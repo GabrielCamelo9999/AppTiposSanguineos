@@ -1,0 +1,1 @@
+# AppTiposSanguineos
